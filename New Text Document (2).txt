@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+extern oldUser* user4;
+void chooseNetwork()
+{
+	printf("%lld",*user4->num);	
+}

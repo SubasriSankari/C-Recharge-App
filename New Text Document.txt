@@ -1,0 +1,24 @@
+//char name;
+	//printf("%d",value);
+	//scanf("%c",&name);
+	//printf("%c",name);
+	/*if(value == 1){
+		//user4->simName = "JIO";
+		//planForJIO(user4);
+		otpConfirm();
+	}
+	else if(value == 2){
+		//user4->simName = "AIRTEL";
+		//planForAIRTEL(user4);
+		otpConfirm();
+	}
+	else if(value == 3){
+		//user4->simName = "VI";
+		//planForVI(user4);
+		otpConfirm();
+	}
+	else
+	{
+		printf("You entered wrong keyword");
+		exit(0);
+	}*/
